@@ -1,5 +1,6 @@
 -- DCL --data control language
 --> -- GRANT , REVOKE
+-- DCL commands are used to give or revoke permissions to users.
 ------------------------------------------------------------------------------------------
 
 -- to give permission to a user
