@@ -28,3 +28,11 @@ INSERT INTO [TABLE_NAME] ([COLUMN_NAME], [COLUMN_NAME], [COLUMN_NAME]) VALUES ([
 -- Select data from the table
 SELECT * FROM [TABLE_NAME];
 
+
+-- delete table 
+drop table [TABLE_NAME];
+
+-- delete database
+drop database [DATABASE_NAME];
+
+
